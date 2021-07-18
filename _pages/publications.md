@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /case-studies/
-title: case studiess
+title: case studies
 description: coming soon!
-years: [2021, 2022, 2023]
+years: [2021]
 nav: true
 ---
 

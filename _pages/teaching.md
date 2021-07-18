@@ -2,8 +2,7 @@
 layout: page
 permalink: /resources/
 title: resources
-description: coming soon
+description: coming soon!
 nav: true
 ---
 
-coming soon!
