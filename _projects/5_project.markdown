@@ -4,8 +4,8 @@ title: Morgan Janes
 description: Head of Strategy
 img: /assets/img/morganjanes.jpg
 redirect:
-importance: 3
-category: 
+importance: 4
+category: [Management Partners]
 ---
 
 Morgan short bio.

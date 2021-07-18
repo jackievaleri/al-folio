@@ -4,7 +4,7 @@ title: Josh Peters
 description: Executor
 img: /assets/img/joshpeters.jpg
 importance: 1
-category:s
+category: [Management Partners]
 ---
 
 Josh short bio.

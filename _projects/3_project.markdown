@@ -4,6 +4,6 @@ title: Brandon Krupczak
 description: Broker
 img: /assets/img/brandonkrupczak.jpg
 redirect:
-importance: 3
-category: 
+importance: 2
+category: [Management Partners]
 ---
