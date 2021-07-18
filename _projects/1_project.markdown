@@ -7,5 +7,3 @@ importance: 1
 redirect: https://www.linkedin.com/in/joshpetepeters/
 category: [Management Partners]
 ---
-
-Josh short bio.

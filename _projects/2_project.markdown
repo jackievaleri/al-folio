@@ -7,5 +7,3 @@ importance: 1
 redirect: https://www.linkedin.com/in/meilin-zhu/
 category: [Management Partners]
 ---
-
-Meilin short bio.
