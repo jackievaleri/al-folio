@@ -6,9 +6,9 @@ title: Area Two Bio Fund # the website title (if blank, full name will be used i
 first_name: 
 middle_name: 
 last_name: 
-email: testemail "at" mit "dot" com
+email: areatwobiofund "at" gmail "dot" com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Landing page for Area Two Bio Fund.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -66,7 +66,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email us at areatwobiofund "at" gmail "dot" com.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -94,7 +94,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
