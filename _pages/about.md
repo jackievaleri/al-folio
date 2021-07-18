@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /About/
 description: Cambridge, MA.
 
 profile:
