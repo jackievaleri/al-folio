@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Management Team
-permalink: /team/
-description: Meet our executive team.
+permalink: /Management Team/
+description: Meet our management team.
 nav: true
 display_categories: [Management Partners, Advisory Board]
 horizontal: false

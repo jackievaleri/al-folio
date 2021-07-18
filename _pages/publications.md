@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /case-studies/
-title: case studies
-description: coming soon!
+permalink: /Case Studies/
+title: Case Studies
+description: Coming soon!
 years: [2021]
 nav: true
 ---

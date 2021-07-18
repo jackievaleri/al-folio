@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /resources/
-title: resources
-description: coming soon!
+permalink: /Resources/
+title: Resources
+description: Coming soon!
 nav: true
 ---
 
