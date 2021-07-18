@@ -2,7 +2,7 @@
 layout: page
 title: team
 permalink: /team/
-description: Meet our executive team.ss
+description: Meet our executive team.
 nav: true
 display_categories: [Management Partners, Advisory Board]
 horizontal: false
