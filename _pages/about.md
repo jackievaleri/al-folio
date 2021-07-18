@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /About/
 description: Cambridge, MA.
 
 profile:
@@ -18,4 +18,4 @@ We are a collective of Cambridge/Boston-based PhD, MD, and MBA trainees motivate
 
 We will leverage our diverse expertise, ranging from engineering development to clinical translation to business implementation, to inform public investing decisions across biotechnology sectors and life sciences.
 
-Interested? Email us at areatwobiofund "at" gmail "dot" com.s
+Interested? Email us at areatwobiofund "at" gmail "dot" com.
