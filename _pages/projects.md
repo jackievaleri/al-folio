@@ -1,6 +1,6 @@
 ---
 layout: page
-title: team
+title: Management Team
 permalink: /team/
 description: Meet our executive team.
 nav: true

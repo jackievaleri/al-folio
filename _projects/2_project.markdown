@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Meilin Zhu
-description: Executor
+description: Co-Executor
 img: /assets/img/meilinzhu.jpg
 importance: 1
+redirect: https://www.linkedin.com/in/meilin-zhu/
 category: [Management Partners]
 ---
 

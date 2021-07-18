@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Area Two Bio Fund # the website title (if blank, full name will be used instead)
+title: Area Two Biotechnology Fund # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
 last_name: 
@@ -48,13 +48,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: dummy # your GitHub user name
+github_username:  # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: dummy # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username:  # your Twitter handle
+linkedin_username: company/area-two-bio-fund/ # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: dummy # your Medium username
+medium_username:  # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -65,7 +65,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-  Disclaimers: The Fund does not offer investment advice. Materials and presentations do not constitute investment recommendations. Any investment involves considerable risk. Information provided may be out-of-date or inaccurate. Individual partners are not liable for capital losses incurred by the Area Two Bio Fund. Any past performance is not indicative of future results. Investing is risky. This is not an advertisement for securities.
+  Email us at areatwobiofund "at" gmail "dot" com.
+  \n Disclaimers: The Fund does not offer investment advice. Materials and presentations do not constitute investment recommendations. Any investment involves considerable risk. Information provided may be out-of-date or inaccurate. Individual partners are not liable for capital losses incurred by the Area Two Bio Fund. Any past performance is not indicative of future results. Investing is risky. This is not an advertisement for securities.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
