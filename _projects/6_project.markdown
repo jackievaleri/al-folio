@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jacqueline Valeri
+title: Jackie Valeri
 description: Webmaster
 img: /assets/img/jackievaleri.jpg
 redirect: https://jackievaleri.github.io
