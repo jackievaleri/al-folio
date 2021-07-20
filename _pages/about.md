@@ -6,7 +6,7 @@ description: Cambridge, MA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: a2biofund-01.png
   address: >
     <p></p>
 
