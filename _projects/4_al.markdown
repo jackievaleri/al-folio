@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alim Ladha, Bookkeeper
-description: Affiliation xyz. Expertise in xxxxxxxxxxx and yyyyyyyyyyyy.
+description: Affiliation xyz. Expertise in xxxxxxxxxxx, yyyyyyyyyyyy, and zzzzzzzzzz.
 img: /assets/img/alimladha.jpg
 importance: 3
 redirect: https://www.linkedin.com/in/alim-ladha-909902121/
