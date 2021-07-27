@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Morgan Janes, Head of Strategy
-description: Affiliation xyz. Expertise in xxxxxxxxxxx, yyyyyyyyyyyy, and zzzzzzzzzz.
-img: /assets/img/morganjanes.jpg
+description: HST MEMP PhD. Interests at the intersection of cell therapies and drug delivery.
+img: /assets/img/morganjanes.png
 redirect: https://www.linkedin.com/in/morgan-janes-922669101/
 importance: 4
 category: [Management Partners]
